@@ -140,10 +140,6 @@ streamlit run app.py
 ### Prediction
 
 ![Prediction](images/Prediction.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
 ---
 
 ## 👩‍💻 Author

@@ -133,6 +133,17 @@ streamlit run app.py
 
 ## 📷 Application
 ## Application Screenshots
+### Home Page
+
+![Home](images/Home.png)
+
+### Prediction
+
+![Prediction](images/Prediction.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 ---
 
 ## 👩‍💻 Author

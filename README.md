@@ -132,8 +132,15 @@ streamlit run app.py
 ---
 
 ## 📷 Application
+## Application Screenshots
 
-(Add screenshots here after uploading to GitHub.)
+### Home Page
+
+![Home](images/home.png)
+
+### Prediction
+
+![Prediction](images/prediction.png)
 
 ---
 
